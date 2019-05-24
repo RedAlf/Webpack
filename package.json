@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kemzura/secondSite.git"
+    "url": "git+https://github.com/RedAlf/Webpack.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Kemzura/secondSite/issues"
+    "url": "https://github.com/RedAlf/Webpack/issues"
   },
-  "homepage": "https://github.com/Kemzura/secondSite#readme",
+  "homepage": "https://github.com/RedAlf/Webpack#readme",
   "dependencies": {
     "jquery": "^3.4.1",
     "lodash": "^4.17.11",
