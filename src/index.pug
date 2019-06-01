@@ -1,11 +1,12 @@
 doctype html
 html
     head
-    meta(charset = 'utf-8')
-    meta(name='viewport', content="initial-scale=1.0, width=device-width")
-    title Webpack app
+        meta(charset = 'utf-8')
+        meta(name='viewport', content="initial-scale=1.0, width=device-width")
+        title Тестовое задание 2
     body
-        h1 test pug
-        div#probe
-        p asdasdasdas
-        
+        .main
+            form(name='startingPositionForm')
+                label Исходное положение:
+                    input(type='text' name='position')
+                input(type='submit' name='answer' value='Ok')
