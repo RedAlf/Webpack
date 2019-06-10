@@ -1,5 +1,5 @@
 {
-  "name": "secondSite",
+  "name": "Webpack",
   "version": "1.0.0",
   "description": "",
   "private": true,
@@ -22,7 +22,8 @@
   "dependencies": {
     "jquery": "^3.4.1",
     "lodash": "^4.17.11",
-    "npm": "^6.9.0"
+    "npm": "^6.9.0",
+    "vue": "^2.6.10"
   },
   "devDependencies": {
     "clean-webpack-plugin": "^0.1.19",
